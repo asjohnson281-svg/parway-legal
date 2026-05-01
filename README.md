@@ -1,1 +1,1 @@
-# faiway-legal
+# fairway-legal
